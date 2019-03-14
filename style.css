@@ -1,0 +1,71 @@
+.navbar {
+  border-bottom: #e2e2e2 3px solid;
+  border-top: #e2e2e2 3px solid;
+}
+
+#carousel-head-section {
+  padding-top: 70px;
+}
+
+#my-carousel {
+  width: 85%;
+  margin: auto;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #777;
+}
+
+.carousel-indicators {
+  bottom: -50px;
+}
+
+#projects-head-section {
+  border-bottom: #e2e2e2 1px solid;
+}
+
+#home-section {
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+#bottom-section {
+  background: #f5f5f5;
+  color: #000;
+  padding-bottom: 30px;
+  border-top: #e2e2e2 3px solid;
+  border-bottom: #e2e2e2 3px solid;
+}
+
+.list-group-item {
+  background: #f5f5f5;
+}
+
+#blog-posts {
+  background: #f5f5f5;
+}
+
+.footer-copyright {
+  background: #dedfdf;
+}
+
+.blog-post-card {
+  background: #f5f5f5;
+}
+
+.nav-link {
+  transition: 0.8s;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+
+.nav-link:hover {
+  background-color: #e2e2e2;
+  color: #000;
+  padding: 22px 10px;
+}
